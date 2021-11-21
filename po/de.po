@@ -9613,7 +9613,7 @@ msgstr "Netzwerk kann nicht initialisiert werden"
 
 #: src/modules/shot/e_mod_main.c:1289 src/modules/shot/e_mod_config.c:53
 msgid "Screenshot Settings"
-msgstr "Bildschirmsperre einstellungen"
+msgstr "Bildschirmfoto-Einstellungen"
 
 #: src/modules/shot/e_mod_config.c:106
 msgid " Show the screenshot mode dialog"
